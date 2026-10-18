@@ -2,7 +2,7 @@ package inventario;
 
 import inventario.vista.LoginFrame;
 import javax.swing.SwingUtilities;
-import javax.swing.UIManager;
+import javax.swing.UIManager;  
 
 /** Punto de entrada de la aplicación: abre la pantalla de inicio de sesión. */
 public class InventarioPOO {
